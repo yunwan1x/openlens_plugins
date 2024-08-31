@@ -1,0 +1,27 @@
+.PodMetrics-container {
+    width: 95%;
+    height: 95%;
+    border: solid 1px black;
+    overflow: auto;
+}
+
+.PodMetrics-table td {
+    padding: 10px;
+}
+
+.PodMetrics-table tr:hover {
+    background-color: #dafdf3;
+}
+
+.PodMetrics-table th {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px;
+    border-bottom: 1px solid;
+    border-color: white;
+}
+
+.PodMetrics-table {
+    width: 100%;
+    height: 100%;
+}
